@@ -39,4 +39,7 @@ public class Parent {
 
     }
 
+    private void nonDummyMethod() {
+
+    }
 }
