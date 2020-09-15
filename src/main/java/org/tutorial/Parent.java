@@ -30,7 +30,4 @@ public class Parent {
 
     }
 
-    private void dummyMethod() {
-
-    }
 }
