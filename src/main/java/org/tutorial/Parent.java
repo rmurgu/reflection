@@ -29,4 +29,8 @@ public class Parent {
     protected void protectedParentMethod() {
 
     }
+
+    private void dummyMethod() {
+
+    }
 }
