@@ -31,7 +31,7 @@ public class Parent {
     }
 
     private void anotherDummyMethod() {
-
+        System.out.println("test");
     }
 
 
