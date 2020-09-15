@@ -42,4 +42,8 @@ public class Parent {
     private void nonDummyMethod() {
 
     }
+
+    private void testRemoteMaster() {
+
+    }
 }
