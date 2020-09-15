@@ -46,4 +46,8 @@ public class Parent {
     private void testRemoteMaster() {
 
     }
+
+    private void test2RemoteMaster() {
+
+    }
 }
