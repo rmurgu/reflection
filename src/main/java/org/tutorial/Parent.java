@@ -33,4 +33,8 @@ public class Parent {
     private void anotherDummyMethod() {
 
     }
+
+    private void extraDummyMethod() {
+
+    }
 }
